@@ -2,6 +2,7 @@ ProyectoBI
 
 ***
 #Hola, esta es la primera version.
+**
 #Espero que sea lo que esperaban, se que fue dificil la comunicacion ya que fue en fin de semana.
 #Nunca habia trabajado con servidor de nodejs, ni express, ni mongodb.
 #La version de docker esta obsoleta por lo cual prepare el archivo pero no le buildear. No puede instalar la nueva version por tengo windows 7 y me pide el 10.
